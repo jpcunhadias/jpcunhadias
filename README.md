@@ -2,7 +2,6 @@
 
 #### I'm a Data Scientist working in Brasília, Brazil.
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -12,8 +11,8 @@
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 &nbsp;&nbsp;&nbsp;
-![tools](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
+
+![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -21,7 +20,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **UN MIGRATION - IOM**
-- ⚙️ I use daily: Python and it's machine learning libraries, SQL
+- ⚙️ I use daily: Python and it's machine learning libraries, SQL and Git
 - 🌍 Sometimes I'm active within the **Kaggle Community**.
 - 🌱 Learning all about **Machine Learning**
 - 💬 Ping me about **data oriented projects**, **research**, **new ideas**, **development**, **any doubts**.
