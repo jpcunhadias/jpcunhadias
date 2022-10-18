@@ -2,7 +2,7 @@
 
 #### I'm a Data Scientist working in Brasília, Brazil.
 
-#### Languages:
+#### Data Stack:
 
 ![python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
