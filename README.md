@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Data Scientist working in Brasília, Brazil.
+#### I'm a Data Scientist working at Brasília, Brazil.
 
 #### Data Stack:
 
