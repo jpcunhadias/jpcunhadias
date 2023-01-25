@@ -22,7 +22,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **VLGI INVESTIMENTOS**
-- ⚙️ I use daily: Python and it's machine learning libraries, SQL and Git
+- ⚙️ I use daily: Python and it's machine learning libraries, SQL and MLflow
 - 🌍 Sometimes I'm active within the **Kaggle Community**.
 - 🌱 Learning all about **Machine Learning**
 - 💬 Ping me about **data oriented projects**, **research**, **new ideas**, **development**, **any doubts**.
