@@ -21,7 +21,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **VLGI INVESTIMENTOS**
+- 🏢 I'm currently working at **Ford**
 - ⚙️ I use daily: Python and it's machine learning libraries, SQL and Git
 - 🌍 Sometimes I'm active within the **Kaggle Community**.
 - 🌱 Learning all about **Machine Learning**
