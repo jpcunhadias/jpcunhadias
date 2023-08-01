@@ -22,7 +22,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **Ford**
-- ⚙️ I use daily: Python and it's machine learning libraries, SQL and Git
+- ⚙️ I use daily: Python and its machine learning libraries, SQL and Git
 - 🌍 Sometimes I'm active within the **Kaggle Community**.
 - 🌱 Learning all about **Machine Learning**
 - 💬 Ping me about **data oriented projects**, **research**, **new ideas**, **development**, **any doubts**.
