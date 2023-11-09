@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Data Scientist working in Brasília, Brazil.
+#### I'm a Data Scientist working at Ford Motor, from Brasília - Brazil.
 
 #### Data Stack:
 
