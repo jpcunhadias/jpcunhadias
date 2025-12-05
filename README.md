@@ -4,7 +4,7 @@
 *Transforming raw data into scalable solutions & measurable business impact.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jpcunhadias)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=github)](https://github.com/jpcunhadias)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=github)](https://www.joaopdias.dev/en)
 
 ---
 
