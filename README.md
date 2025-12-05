@@ -44,40 +44,6 @@ My professional experience spans the **Automotive (Ford)**, **Public Health**, a
 
 ---
 
-## 💼 Professional Case Studies
-
-*Due to commercial NDAs, the source code for these projects is private. Below is a summary of the architectures and impact delivered.*
-
-### 🏥 Healthcare NLP & Automation
-**Role:** Data Scientist @ Secretaria Estadual de Saúde de Pernambuco
-* **Challenge:** Manual processing of thousands of unstructured medical reports and lack of traceability in data ingestion.
-* **Solution:** Built end-to-end pipelines using **Kedro** and **NLP (TF-IDF)** to classify reports. Automated ingestion via **Airflow** integrating multiple APIs.
-* **Stack:** Python, Kedro, Airflow, ElasticSearch, Docker.
-
-### ⚡ EV Battery Predictive Maintenance
-**Role:** Researcher & Data Scientist @ Ford Motor Company
-* **Challenge:** Predicting critical failures in electric vehicle batteries to optimize support.
-* **Solution:** Developed Time Series and Regression models using **PySpark** on large-scale datasets (BigQuery) to identify failure patterns before they occurred.
-* **Stack:** PySpark, GCP (Vertex AI), Time Series Analysis.
-
-### 📄 OCR Data Extraction Pipeline
-**Role:** ML Engineer
-* **Challenge:** Extracting structured data from thousands of PDF documents and images for audit reliability.
-* **Solution:** Designed a reusable OCR architecture using **OpenCV** and **Tesseract**, containerized with Docker for easy deployment across environments.
-* **Stack:** Computer Vision, OCR, FastAPI, Docker.
-
----
-
-## 🚧 Current Labs (Open Source)
-
-*I am currently rebuilding open-source versions of my favorite architectures to share with the community. Stay tuned for:*
-
-- [ ] **End-to-End MLOps Template:** A skeleton repo demonstrating a Kedro + Airflow + MLflow pipeline.
-- [ ] **Document Parser API:** A FastAPI service wrapping Tesseract for clean OCR extraction.
-- [ ] **Customer Churn Predictor:** A classic ML problem solved with a modern production stack.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
