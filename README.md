@@ -23,7 +23,7 @@ My work centers on the **end-to-end lifecycle** of machine learning—from data 
 ### 💼 Industry Experience
 * 🚗 **Automotive (Ford):** Predictive modeling and analytics.
 * 🏥 **Public Health:** OCR automation, data platforms, and ML pipelines for real-world workloads.
-* ⚖️ **Legal/Tech:** NLP/OCR pipelines and scalable backend integrations.
+* ⚖️ **Legal/Tech:** NLP/OCR text analytics and classification pipelines, and scalable backend integrations.
 
 ### 🗣 Languages
 * **Portuguese:** Native
@@ -53,7 +53,7 @@ My work centers on the **end-to-end lifecycle** of machine learning—from data 
 ![Kedro](https://img.shields.io/badge/-Kedro-FFC900?style=flat&logo=python&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 
 ---
 
