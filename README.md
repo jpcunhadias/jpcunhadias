@@ -53,7 +53,7 @@ My work centers on the **end-to-end lifecycle** of machine learning—from data 
 ![Kedro](https://img.shields.io/badge/-Kedro-FFC900?style=flat&logo=python&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 
 ---
 
