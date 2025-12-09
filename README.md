@@ -1,6 +1,6 @@
 # Hi there, I'm João Pedro! 👋
 
-### Data Scientist | Machine Learning Engineer
+### Machine Learning Engineer
 *Transforming raw data into scalable solutions & measurable business impact.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jpcunhadias)
@@ -10,13 +10,26 @@
 
 ## 👨‍💻 About Me
 
-I am a Data Scientist and ML Engineer based in **Brasília, Brazil**, with a strong background in **Computer Engineering**. I specialize in the **end-to-end machine learning lifecycle**—moving beyond notebooks to build production-grade pipelines.
+I’m a **Computer Engineer** and **Machine Learning Engineer** based in Brasília 🇧🇷, specializing in designing and delivering **production-ready ML systems**.
 
-My professional experience spans the **Automotive (Ford)**, **Public Health**, and **Legal/Tech** sectors, where I have automated complex workflows and deployed models for critical decision-making.
+My work centers on the **end-to-end lifecycle** of machine learning—from data ingestion and feature pipelines all the way to model training, evaluation, deployment, monitoring, and continuous iteration. I combine solid software engineering principles with practical ML expertise to build solutions that scale reliably.
 
-* 🔭 **Focus:** MLOps, NLP, and Computer Vision architectures.
-* 💼 **Experience:** Deploying models with **Kedro, Airflow, and Docker** in cloud environments (AWS/GCP).
-* 🗣️ **Languages:** Portuguese (Native), English, Spanish, and Russian.
+### 🔭 Area of Focus
+* **MLOps & Systems Design:** Orchestration, automation, reproducibility, CI/CD.
+* **Data Pipelines & ETL:** Batch/stream workflows, quality checks, data lineage.
+* **Model Deployment:** APIs, containerized workloads, monitoring, logging.
+* **Cloud & Infrastructure:** AWS/GCP, Docker, Terraform, Kubernetes (Learning path).
+
+### 💼 Industry Experience
+* 🚗 **Automotive (Ford):** Predictive modeling and analytics.
+* 🏥 **Public Health:** OCR automation, data platforms, and ML pipelines for real-world workloads.
+* ⚖️ **Legal/Tech:** NLP/OCR pipelines and scalable backend integrations.
+
+### 🗣 Languages
+* **Portuguese:** Native
+* **English:** Fluent
+* **Spanish:** Intermediate
+* **German:** Currently Learning 🇩🇪
 
 ---
 
