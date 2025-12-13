@@ -1,18 +1,8 @@
-# Hi there, I'm João Pedro!
-
-### Machine Learning Engineer
-*Transforming raw data into scalable solutions & measurable business impact.*
-
+## About Me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jpcunhadias)
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-orange?style=flat&logo=github)](https://www.joaopdias.dev/en)
 
----
-
-## About Me
-
 I’m a **Machine Learning Engineer** based in Brasília, Brazil. I specialize in designing and delivering **production-ready ML systems**.
-
-My work centers on the **end-to-end lifecycle** of machine learning—from data ingestion and feature pipelines all the way to model training, evaluation, deployment, monitoring, and continuous iteration. I combine solid software engineering principles with practical ML expertise to build solutions that scale reliably.
 
 ### Area of Focus
 * **MLOps & Systems Design:** Orchestration, automation, reproducibility, CI/CD.
