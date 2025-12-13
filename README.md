@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Machine Learning Engineer** based in Brasília, Brazil, specializing in designing and delivering **production-ready ML systems**.
+I’m a **Machine Learning Engineer** based in Brasília, Brazil. I specialize in designing and delivering **production-ready ML systems**.
 
 My work centers on the **end-to-end lifecycle** of machine learning—from data ingestion and feature pipelines all the way to model training, evaluation, deployment, monitoring, and continuous iteration. I combine solid software engineering principles with practical ML expertise to build solutions that scale reliably.
 
