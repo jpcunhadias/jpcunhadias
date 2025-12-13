@@ -1,4 +1,4 @@
-# Hi there, I'm João Pedro! 👋
+# Hi there, I'm João Pedro!
 
 ### Machine Learning Engineer
 *Transforming raw data into scalable solutions & measurable business impact.*
@@ -8,32 +8,32 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m a **Machine Learning Engineer** based in Brasília, Brazil. I specialize in designing and delivering **production-ready ML systems**.
 
 My work centers on the **end-to-end lifecycle** of machine learning—from data ingestion and feature pipelines all the way to model training, evaluation, deployment, monitoring, and continuous iteration. I combine solid software engineering principles with practical ML expertise to build solutions that scale reliably.
 
-### 🔭 Area of Focus
+### Area of Focus
 * **MLOps & Systems Design:** Orchestration, automation, reproducibility, CI/CD.
 * **Data Pipelines & ETL:** Batch/stream workflows, quality checks, data lineage.
 * **Model Deployment:** APIs, containerized workloads, monitoring, logging.
 * **Cloud & Infrastructure:** AWS/GCP, Docker, Terraform, Kubernetes (Learning path).
 
-### 💼 Industry Experience
-* 🚗 **Automotive (Ford):** Predictive modeling and analytics for vehicle performance.
-* 🏥 **Public Health:** OCR automation, data platforms, and ML pipelines for **cancer classification** and **medication demand forecasting**.
-* ⚖️ **Legal/Tech:** NLP/OCR text analytics, classification pipelines, and scalable backend integrations.
+### Industry Experience
+* **Automotive (Ford):** Predictive modeling and analytics for vehicle performance.
+* **Public Health:** OCR automation, data platforms, and ML pipelines for **cancer classification** and **medication demand forecasting**.
+* **Legal/Tech:** NLP/OCR text analytics, classification pipelines, and scalable backend integrations.
 
-### 🗣 Languages
+### Languages
 * **Portuguese:** Native
 * **English:** Fluent
 * **Spanish:** Intermediate
-* **German:** Currently Learning 🇩🇪
+* **German:** Currently Learning
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Core & Data**
 <br>
@@ -62,7 +62,7 @@ My work centers on the **end-to-end lifecycle** of machine learning—from data 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-tawny-eight-45.vercel.app/api?username=jpcunhadias&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
