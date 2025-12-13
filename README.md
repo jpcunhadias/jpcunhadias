@@ -21,7 +21,7 @@ My work centers on the **end-to-end lifecycle** of machine learning—from data 
 * **Cloud & Infrastructure:** AWS/GCP, Docker, Terraform, Kubernetes (Learning path).
 
 ### Industry Experience
-* **Automotive (Ford):** Predictive modeling and analytics for vehicle performance.
+* **Automotive:** Predictive modeling and analytics for vehicle performance.
 * **Public Health:** OCR automation, data platforms, and ML pipelines for **cancer classification** and **medication demand forecasting**.
 * **Legal/Tech:** NLP/OCR text analytics, classification pipelines, and scalable backend integrations.
 
