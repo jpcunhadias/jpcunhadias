@@ -2,7 +2,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jpcunhadias)
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-orange?style=flat&logo=github)](https://www.joaopdias.dev/en)
 
-I’m a **Machine Learning Engineer** based in Brasília, Brazil. I specialize in designing and delivering **production-ready ML systems**.
+I’m a **Machine Learning Engineer** based in Brasília, Brazil, focused on building production-ready ML systems.
 
 ### Area of Focus
 * **MLOps & Systems Design:** Orchestration, automation, reproducibility, CI/CD.
