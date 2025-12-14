@@ -12,7 +12,7 @@ I’m a **Machine Learning Engineer** based in Brasília, Brazil, focused on bui
 
 ### Industry Experience
 * **Automotive:** Predictive modeling and analytics for vehicle performance.
-* **Public Health:** OCR automation, data platforms, and ML pipelines for **cancer classification** and **medication demand forecasting**.
+* **Public Health:** OCR automation, data platforms, and ML pipelines for **cancer classification** and **pharmaceutical demand forecasting**.
 * **Legal/Tech:** NLP/OCR text analytics, classification pipelines, and scalable backend integrations.
 
 ### Languages
