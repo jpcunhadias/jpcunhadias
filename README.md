@@ -2,13 +2,13 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jpcunhadias)
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-orange?style=flat&logo=github)](https://www.joaopdias.dev/en)
 
-I’m a **Machine Learning Engineer** based in Brasília, Brazil, focused on building end-to-end ML systems.
+I’m a Brazilian **Machine Learning Engineer** based in Cottbus, Germany, focused on building end-to-end ML systems.
 
 ### Area of Focus
 * **MLOps & Systems Design:** Orchestration, automation, reproducibility, CI/CD.
 * **Data Pipelines & ETL:** Batch/stream workflows, quality checks, data lineage.
 * **Model Deployment:** APIs, containerized workloads, monitoring, logging.
-* **Cloud & Infrastructure:** AWS/GCP, Docker, Terraform, Kubernetes (Learning path).
+* **Cloud & Infrastructure:** AWS/GCP, Docker, Kubernetes (Learning path).
 
 ### Industry Experience
 * **Automotive:** Predictive modeling and analytics for vehicle performance.
@@ -29,7 +29,6 @@ I’m a **Machine Learning Engineer** based in Brasília, Brazil, focused on bui
 <br>
 ![Python](https://custom-icon-badges.demolab.com/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://custom-icon-badges.demolab.com/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Rust](https://custom-icon-badges.demolab.com/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Spark](https://custom-icon-badges.demolab.com/badge/-Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
 **Machine Learning**
@@ -45,6 +44,7 @@ I’m a **Machine Learning Engineer** based in Brasília, Brazil, focused on bui
 ![Docker](https://custom-icon-badges.demolab.com/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Airflow](https://custom-icon-badges.demolab.com/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Kedro](https://custom-icon-badges.demolab.com/badge/-Kedro-FFC900?style=flat&logo=kedro&logoColor=white)
+![DVC](https://custom-icon-badges.demolab.com/badge/-DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
 ![MLflow](https://custom-icon-badges.demolab.com/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![FastAPI](https://custom-icon-badges.demolab.com/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![GCP](https://custom-icon-badges.demolab.com/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
