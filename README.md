@@ -55,6 +55,6 @@ I’m a **Machine Learning Engineer** based in Brasília, Brazil, focused on bui
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-tawny-eight-45.vercel.app/api?username=jpcunhadias&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats-tawny-eight-45.vercel.app/api/top-langs/?username=jpcunhadias&layout=compact&theme=radical&hide=jupyter%20notebook" height="180" alt="languages" />
+  <img src="https://github-readme-stats-tawny-eight-45.vercel.app/api?username=jpcunhadias&show_icons=true&theme=gruvbox&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats-tawny-eight-45.vercel.app/api/top-langs/?username=jpcunhadias&layout=compact&theme=gruvbox&hide=jupyter%20notebook" height="180" alt="languages" />
 </div>
