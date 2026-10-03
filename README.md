@@ -20,7 +20,6 @@ I’m a Brazilian **Machine Learning Engineer** based in Cottbus, Germany, focus
 ### Languages
 * **Portuguese:** Native
 * **English:** Fluent
-* **Spanish:** Intermediate
 * **German:** Currently Learning
 
 ---
