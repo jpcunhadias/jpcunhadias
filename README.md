@@ -18,10 +18,9 @@ I’m a Brazilian **Machine Learning Engineer** based in Cottbus, Germany, focus
 * **Legal/Tech:** NLP/OCR text analytics, classification pipelines, and scalable backend integrations.
 
 ### Languages
-* **Portuguese:** Native
 * **English:** Fluent
-* **German:** Currently Learning
-
+* **German:** A2
+* **Portuguese:** Native
 ---
 
 ## Tech Stack
