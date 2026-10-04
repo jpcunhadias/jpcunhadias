@@ -14,7 +14,7 @@ I’m a Brazilian **Machine Learning Engineer** based in Cottbus, Germany, focus
 
 ### Industry Experience
 * **Automotive:** Predictive modeling and analytics for vehicle performance.
-* **Public Health:** OCR automation, data platforms, and ML pipelines for **cancer classification**.
+* **Public Health:** OCR automation, data platforms, and ML pipelines for medical report classification.
 * **Legal/Tech:** NLP/OCR text analytics, classification pipelines, and scalable backend integrations.
 
 ### Languages
