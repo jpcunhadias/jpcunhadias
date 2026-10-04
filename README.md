@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jpcunhadias)
 
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-orange?style=flat&logo=github)](https://www.joaopdias.dev)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-orange?style=flat&logo=github)](https://joaopdias.dev)
 
 I’m a Brazilian **Machine Learning Engineer** based in Cottbus, Germany, focused on building reliable ML systems and bringing models into production.
 
