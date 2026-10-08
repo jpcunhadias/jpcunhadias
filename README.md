@@ -19,8 +19,7 @@ I’m currently pursuing an **M.Sc. in Artificial Intelligence at BTU Cottbus-Se
 * **Public Health:** NLP pipelines, medical report classification, OCR automation, model lifecycle management, and production ML infrastructure.
 * **Automotive:** Statistical modeling and machine learning on large-scale EV telemetry using PySpark, MLlib, BigQuery, and Vertex AI.
 * **Software Products:** NLP, text classification, experimentation, and integration of ML models into existing C# applications.
-* **International Analytics:** ETL, APIs, dashboards, cloud data environments, and stakeholder-facing analytics in the
-  United Nations 🇺🇳.
+* **International Analytics:** ETL, APIs, dashboards, cloud environments, and stakeholder-facing analytics in the United Nations 🇺🇳.
 
 ### Languages
 * **English:** C1 / IELTS 7.5
